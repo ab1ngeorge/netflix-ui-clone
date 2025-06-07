@@ -25,7 +25,7 @@ A responsive front-end clone of the Netflix homepage built with HTML, CSS, and J
 - **Media Queries** for responsiveness
 
 ## 📂 Project Structure
-netflix-clone/
-├── index.html
-└── README.md
+#netflix-clone/
+#├── index.html
+
 
