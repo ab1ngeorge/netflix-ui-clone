@@ -1,4 +1,4 @@
-# Netflix Clone 2
+## Netflix Clone 2
 
 A responsive front-end clone of the Netflix homepage built with HTML, CSS, and JavaScript. This project replicates the structure and design of Netflix's main interface, including its hero section, content rows, and footer.
 
@@ -24,8 +24,6 @@ A responsive front-end clone of the Netflix homepage built with HTML, CSS, and J
 - **Flexbox** for layout
 - **Media Queries** for responsiveness
 
-## 📂 Project Structure
-#netflix-clone/
-#├── index.html
+
 
 
